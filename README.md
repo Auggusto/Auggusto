@@ -1,8 +1,9 @@
 ### Olá! ^_^
 
 - ☕ Fazendo alguns projetos.
-- ✨ Estudando Python.
-
+- ✨Estudando Python.
+- 🎲 Pretendo aprender/focar: Análise de dados e
+desenvolvimento web.
 ##
 <picture>
 <source 
