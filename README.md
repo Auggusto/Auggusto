@@ -1,9 +1,8 @@
 ### Olá! ^_^
 
-- ☕ Começando a fazer alguns projetos em Python.
-- 💖 Estudando Python e POO.
-- 🌟 Pretendo aprender/focar: Análise de dados e
-desenvolvimento web.
+- ☕ Estudante Full Stack
+- 💖 Mais "experiência" com Python.
+- 🌟 Pretendo aprender/focar: Desenvolvimento web e análise de dados.
 
 ##
 [![linke](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar--auggusto)
